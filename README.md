@@ -29,3 +29,10 @@ simple-portal/
 └─ public/
    ├─ index.html
    └─ dashboard.html
+Getting Started
+1. Install dependencies
+npm install
+2. Start the server
+node server.js
+3. Open in browser
+http://localhost:3000
