@@ -29,13 +29,17 @@ simple-portal/
 └─ public/
    ├─ index.html
    └─ dashboard.html
-##Getting Started
+
+## Getting Started
 
 1. Install dependencies
+```bash
 npm install
  
 2. Start the server
+```bash
 node server.js
 
 3. Open in browser
+```bash
 http://localhost:3000
