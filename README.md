@@ -26,9 +26,6 @@ simple-portal/
 ├─ server.js
 ├─ package.json
 ├─ package-lock.json
-├─ LICENSE
-├─ README.md
-├─ .gitignore
 └─ public/
    ├─ index.html
    └─ dashboard.html
